@@ -1,0 +1,1 @@
+The path variable assumes the directory having two folders 'fights' and 'noFights' having the respective category videos.
